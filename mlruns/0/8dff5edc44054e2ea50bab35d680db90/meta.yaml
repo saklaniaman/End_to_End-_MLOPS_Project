@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/End-to-End%20MLOPS/End_to_End-_MLOPS_Project/mlruns/0/8dff5edc44054e2ea50bab35d680db90/artifacts
+end_time: 1731323667699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8dff5edc44054e2ea50bab35d680db90
+run_name: blushing-conch-587
+run_uuid: 8dff5edc44054e2ea50bab35d680db90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731323659086
+status: 3
+tags: []
+user_id: Saklani
