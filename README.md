@@ -1,4 +1,4 @@
-# End-to-end-Machine-Learning-Project-with-MLflow by AMAN SAKLANI
+# End-to-end-Machine-Learning-Project-with-MLflow by AMAN SAKLANI and Aditya Bharti
 
 
 ## Workflows
